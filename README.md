@@ -2,18 +2,7 @@
 
 # Foodium 🍲 
 
-[![Test](https://github.com/PatilShreyas/Foodium/workflows/Test/badge.svg?branch=master)](https://github.com/PatilShreyas/Foodium/actions?query=workflow%3ATest)
-[![Build](https://github.com/PatilShreyas/Foodium/workflows/Build/badge.svg?branch=master)](https://github.com/PatilShreyas/Foodium/actions?query=workflow%3ABuild)
-[![Lint](https://github.com/PatilShreyas/Foodium/workflows/Lint/badge.svg?branch=master)](https://github.com/PatilShreyas/Foodium/actions?query=workflow%3ALint)
-
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23406-2CA3E6.svg?style=flat)](http://androidweekly.net/issues/issue-406)
-[![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
-![Github Followers](https://img.shields.io/github/followers/PatilShreyas?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/PatilShreyas/Foodium?style=social)
-![GitHub forks](https://img.shields.io/github/forks/PatilShreyas/Foodium?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/PatilShreyas/Foodium?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/imShreyasPatil?label=Follow&style=social)
+-
 
 **Foodium** is a sample food blog 🍲 Android application 📱 built to demonstrate use of *Modern Android development* tools. Dedicated to all Android Developers with ❤️. 
 
@@ -104,41 +93,3 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
-
-## Contribute
-If you want to contribute to this library, you're always welcome!
-See [Contributing Guidelines](CONTRIBUTING.md). 
-
-## Discuss 💬
-
-Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/PatilShreyas/Foodium/discussions).
-
-## Contact
-If you need any help, you can connect with me.
-
-Visit:- [shreyaspatil.dev](https://shreyaspatil.dev)
-
-## License
-```
-MIT License
-
-Copyright (c) 2020 Shreyas Patil
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
